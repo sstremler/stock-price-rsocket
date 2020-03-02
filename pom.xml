@@ -10,6 +10,7 @@
 
     <modules>
 		<module>stock-price-generator</module>
+		<module>stock-price-service</module>
     </modules>
 
 </project>
